@@ -1,0 +1,21 @@
+html {
+  background: cornflowerblue;
+}
+
+nav > ul {
+  margin: 0;
+  padding: 0;
+} 
+
+.flashy {
+  color: red;
+  font-style: italic;
+  list-style-type: none;
+  display: inline;
+  padding: 10px 20px 10px;
+}
+.best {
+  font-size: 50px;
+  background-color: cornflowerblue;
+  color: blue;
+}
